@@ -1,0 +1,5 @@
+QApplication, QWidget
+sqlite3
+random
+uic
+sys
